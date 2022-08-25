@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int n, factor, sum = 0;
+    int n, sum = 0;
     cout << "enter the number :";
     cin >> n;
     for (int i = 1; i <= n; i++)
