@@ -10,6 +10,7 @@ int main()
     while (x--)
     {
         int n;
+        cin >> n;
         arr[i] = new int[n];
         for (int j = 0; j < n; j++)
         {
@@ -20,6 +21,7 @@ int main()
     while (y--)
     {
         int a, b;
+        cin >> a >> b;
         cout << arr[a][b] << endl;
     }
     return 0;
