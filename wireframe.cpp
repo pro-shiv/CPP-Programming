@@ -10,7 +10,6 @@ int main()
     {
         cin >> n >> m >> x;
         p = (2 * n) + (2 * m);
-        p *= x;
         cout << p << endl;
     }
 }
