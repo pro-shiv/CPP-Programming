@@ -28,7 +28,10 @@ int main()
 
         for (int k = 0; k < ceil(n / 2); k++)
         {
-            if
+            for (int j = 0; j < n + 4; j++)
+            {
+                if ()
+            }
         }
         cout << endl;
     }
