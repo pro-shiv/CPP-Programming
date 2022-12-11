@@ -14,5 +14,5 @@ int main()
 {
     int x = 5, y = 8, c;
     c = swap(x, y);
-    cout << c;
+    cout << x << y;
 }
